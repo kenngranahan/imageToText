@@ -1,0 +1,42 @@
+Torpor
+Torpor is a state of decreased physiological activity in an animal, usually marked by a reduced body temperature and metabolic rate. Torpor enables animals to survive periods of reduced food availability.[1] The term "torpor" can refer to the time a hibernator spends at low body temperature, lasting days to weeks, or it can refer to a period of low body temperature and metabolism lasting less than 24 hours, as in "daily torpor".
+Animals that undergo daily torpor include birds (even tiny hummingbirds, notably Cypselomorphae)[2][3]
+and some mammals, including many marsupial species,[4][5] rodent species (such as mice), and bats.[6]
+During the active part of their day, such animals maintain normal body temperature and activity levels, but their metabolic rate and body temperature drop during a portion of the day (usually night) to conserve energy.[citation needed]
+Some animals seasonally go into long periods of inactivity, with reduced body temperature and metabolism, made up of multiple bouts of torpor. This is known as hibernation if it occurs during winter or aestivation if it occurs during the summer. Daily torpor, on the other hand, is not seasonally dependent and can be an important part of energy conservation at any time of year.[citation needed]
+Torpor is a well-controlled thermoregulatory process and not, as previously thought, the result of switching off thermoregulation.[7]
+Marsupial torpor differs from non-marsupial mammalian (eutherian) torpor in the characteristics of arousal. Eutherian arousal relies on a heat-producing brown adipose tissue as a mechanism to accelerate rewarming. The mechanism of marsupial arousal is unknown, but appears not to rely on brown adipose tissue.[8]
+
+Evolution
+The evolution of torpor likely accompanied the development of homeothermy.[9] Animals capable of maintaining a body temperature above ambient temperature when other members of its species could not would have a fitness advantage. Benefits of maintaining internal temperatures include increased foraging time and less susceptibility to extreme drops in temperature.[9] This adaptation of increasing body temperature to forage has been observed in small nocturnal mammals when they first wake up in the evening.[10][11][12]
+Although homeothermy lends advantages such as increased activity levels, small mammals and birds maintaining an internal body temperature spend up to 100 times more energy in low ambient temperatures compared to ectotherms.[13] To cope with this challenge, these animals maintain a much lower body temperature, staying just over ambient temperature rather than at normal operating temperature. This reduction in body temperature and metabolic rate allows the prolonged survival of animals capable of entering torpid states.
+In 2020 scientists reported evidence of the torpor in Lystrosaurus living ~250 Mya in Antarctica – the oldest evidence of a hibernation-like state in a vertebrate animal.[14][15][16]
+
+Functions
+Slowing metabolic rate to conserve energy in times of insufficient resources is the primarily noted purpose of torpor.[17] This conclusion is largely based on laboratory studies where torpor was observed to follow food deprivation.[18] There is evidence for other adaptive functions of torpor where animals are observed in natural contexts:
+
+Circadian rhythm during torpor
+Animals that can enter torpor rely on biological rhythms such as circadian and circannual rhythms to continue natural functions. Different animals will manage their circadian rhythm differently, and in some species it's seen to completely stop (such as in European hamsters). Other organisms, such as a black bear, enter torpor and switch to multi-day cycles rather than rely on a circadian rhythm. However, it is seen that both captive and wild bears express similar circadian rhythms when entering torpor. Bears entering torpor in a simulated den with no light expressed normal but low functioning rhythms. The same was observed in wild bears denning in natural areas. The function of circadian rhythms in black, brown, and polar bears suggest that their system of torpor is evolutionarily 
+advanced.[19]
+
+Fat conservation observed in small birds
+Torpor has been shown to be a strategy of small migrant birds to increase their body fat. Hummingbirds,  resting at night during migration, were observed to enter torpor which helped conserve fat stores for the rest of their migration.[18]
+This strategy of using torpor to increase body fat has also been observed in wintering chickadees.[20] Black-capped chickadees, living in temperate forests of North America, do not migrate south during winter. The chickadee can maintain a body temperature 12 °C lower than normal. This reduction in metabolism allows it to conserve 30% of fat stores amassed from the previous day. Without using torpor the chickadee would not be able to conserve its fat stores to survive winter.
+
+Advantage in environments with unpredictable food sources
+Torpor can be a strategy of animals with unpredictable food supplies.[21] For example, high-latitude living rodents use torpor seasonally when not reproducing. These rodents use torpor as means to survive winter and live to reproduce in the next reproduction cycle when food sources are plentiful, separating periods of torpor from the reproduction period. Some animals use torpor during their reproductive cycle, as seen in unpredictable habitats.[21] They experience the cost of a prolonged reproduction period but the payoff is survival to be able to reproduce at all.[21]
+The eastern long-eared bat uses torpor during winter and is able to arouse and forage during warm periods.[22]
+
+Survival during mass extinctions
+It is suggested that this daily torpor use may have allowed survival through mass extinction events.[23] Heterotherms make up only four out of 61 mammals confirmed to have gone extinct over the last 500 years.[23] Torpor enables animals to reduce energy requirements allowing them to better survive harsh conditions.
+
+Inter-species competition
+Interspecific competition occurs when two species require the same resource for energy production.[24] Torpor increases fitness in the case of inter-specific competition with the nocturnal common spiny mouse.[24] When the golden spiny mouse experiences reduced food availability by diet overlap with the common spiny mouse it spends more time in a torpid state.
+
+Parasite resistance by bats
+A drop in temperature from torpor has been shown to reduce the ability of parasites to reproduce.[25] Ectoparasites of bats in temperate zones have reduced reproductive rates when bats enter torpor. Where bats do not enter torpor the parasites reproduce at a constant rate throughout the year.
+
+NASA deep sleep option for a mission to Mars
+In 2013, SpaceWorks Engineering began researching a way to dramatically cut the cost of a human expedition to Mars by putting the crew in extended torpor for 90 to 180 days. Traveling while hibernating would reduce astronauts' metabolic functions and minimize requirements for life support during multi-year missions.[26]
+
+Notes

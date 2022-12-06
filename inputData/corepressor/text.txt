@@ -1,0 +1,39 @@
+Corepressor
+In the field of molecular biology, a corepressor is a molecule that represses the expression of genes.[1] In prokaryotes, corepressors are small molecules whereas in eukaryotes, corepressors are proteins. A corepressor does not directly bind to DNA, but instead indirectly regulates gene expression by binding to repressors.
+A corepressor downregulates (or represses) the expression of genes by binding to and activating a repressor transcription factor.  The repressor in turn binds to a gene's operator sequence (segment of DNA to which a transcription factor binds to regulate gene expression), thereby blocking transcription of that gene.
+
+Function
+
+Prokaryotes
+In prokaryotes, the term corepressor is used to denote the activating ligand of a repressor protein.  For example, the E. coli tryptophan repressor (TrpR) is only able to bind to DNA and repress transcription of the trp operon when its corepressor tryptophan is bound to it.  TrpR in the absence of tryptophan is known as an aporepressor and is inactive in repressing gene transcription.[2]  Trp operon encodes enzymes responsible for the synthesis of tryptophan.  Hence TrpR provides a negative feedback mechanism that regulates the biosynthesis of tryptophan.
+In short tryptophan acts as a corepressor for its own biosynthesis.[3]
+
+Eukaryotes
+In eukaryotes, a corepressor is a protein that binds to transcription factors.[4] In the absence of corepressors and in the presence of coactivators, transcription factors upregulate gene expression. Coactivators and corepressors compete for the same binding sites on transcription factors.  A second mechanism by which corepressors may repress transcriptional initiation when bound to transcription factor/DNA complexes is by recruiting histone deacetylases which catalyze the removal of acetyl groups from lysine residues.  This increases the positive charge on histones which strengthens the electrostatic attraction between the positively charged histones and negatively charged DNA, making the DNA less accessible for transcription.[5][6]
+In humans several dozen to several hundred corepressors are known, depending on the level of confidence with which the characterisation of a protein as a corepressors can be made.[7]
+
+Examples of corepressors
+
+NCoR
+NCoR (nuclear receptor co-repressor) directly binds to the D and E domains of nuclear receptors and represses their transcriptional activity.[8][9][10] Class I histone deacetylases are recruited by NCoR through SIN3, and NCoR directly binds to class II histone deacetylases.[8][10][11]
+
+Silencing mediator for retinoid and thyroid-hormone receptor
+SMRT (silencing mediator of retinoic acid and thyroid hormone receptor), also known as NCoR2, is an alternatively spliced SRC-1(steroid receptor coactivator-1).[8][9] It is negatively and positively affected by MAPKKK (mitogen activated protein kinase kinase kinase) and casein kinase 2 phosphorylation, respectively.[8] SMRT has two major mechanisms: first, similar to NCoR, SMRT also recruits class I histone deacetylases through SIN3 and directly binds to class II histone deacetylases.[8] Second, it binds and sequesters components of the general transcriptional machinery, such as transcription factor II B.[8][10]
+
+Role in biological processes
+Corepressors are known to regulate transcription through different activation and inactivation states.[12][13]
+NCoR and SMRT act as a corepressor complex to regulate transcription by becoming activated once the ligand is bound.[12][13][14][15] Knockouts of NCoR resulted in embryo death, indicating its importance in erythrocytic, thymic, and neural system development.[15][16]
+Mutations in certain corepressors can result in deregulation of signals.[13] SMRT contributes to cardiac muscle development, with knockouts of the complex resulting in less developed muscle and improper development.[13]
+NCoR has also been found to be an important checkpoint in processes such as inflammation and macrophage activation.[15]
+Recent evidence also suggests the role of corepressor RIP140 in metabolic regulation of energy homeostasis.[14]
+
+Clinical significance
+
+Diseases
+Since corepressors participate and regulate a vast range of gene expression, it is not surprising that aberrant corepressor activities can cause diseases.[17]
+Acute myeloid leukemia (AML) is a highly lethal blood cancer characterized by uncontrolled myeloid cell growth.[18] Two homologous corepressor genes, BCOR (BCL6 corepressor) and BCORL1, are recurrently mutated in AML patients.[19][20] BCOR works with multiple transcription factors and is known to play vital regulatory roles in embryonic development.[18][19] Clinical results detected BCOR somatic mutations in ~4% of an unselected group of AML patients, and ~17% in a subset of patients who lack known AML-causing mutations.[18][19] Similarly, BCORL1 is a corepressor that regulates cellular processes,[21] and was found to be mutated in ~6% of tested AML patients.[18][20] These studies point out a strong association between corepressor mutations and AML. Further corepressor research may reveal potential therapeutic targets for AML and other diseases.
+
+Therapeutic Potential
+Corepressors present many potential avenues for drugs to target a vast range of diseases.[22]
+BCL6 upregulation is observed in cancers such as diffuse large B-cell lymphomas (DLBCLs),[23][24][25][26] colorectal cancer,[27][28] and lung cancer.[29][30] BCL-6 corepressor, SMRT, NCoR, and other corepressors are able to interact with and transcriptionally repress BCL6.[23][24][25][26] Small-molecule compounds, such as synthetic peptides that target BCL6 and corepressor interactions,[23][24] as well as other protein-protein interaction inhibitors,[26] have been shown to effectively kill cancer cells.
+Activated liver X receptor (LXR) forms a complex with corepressors to suppress the inflammatory response in rheumatoid arthritis, making LXR agonists like GW3965 a potential therapeutic strategy.[31][32] Ursodeoxycholic acid (UDCA), by upregulating the corepressor small heterodimer partner interacting leucine zipper protein (SMILE), inhibits the expression of IL-17, an inflammatory cytokine, and suppresses Th17 cells, both implicated in rheumatoid arthritis.[33][34] This effect is dose-dependent in humans, and UCDA is thought to be another prospective agent of rheumatoid arthritis therapy.[33]
