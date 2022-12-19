@@ -1,0 +1,177 @@
+
+Pharmacology
+Main article: Intrinsic activity
+
+In pharmacology, efficacy (Emax) is the maximum response achievable from an applied or dosed agent, for instance, a small molecule drug.! intrinsic activity is a
+relative term for a drug's efficacy relative to a drug with the highest observed efficacy." It is a purely descriptive term that has little or no mechanistic interpretation.
+
+In order for a drug to have an effect, it needs to bind to its target, and then to affect the function of this target. The target of a drug is commonly referred to as a
+receptor, but can in general be any chemically sensitive site on any molecule found in the body. The nature of such binding can be quantified by characterising how
+tightly these molecules, the drug and its receptor, interact: this is known as the affinity. Efficacy, on the other hand, is a measure of the action of a drug once binding has
+occurred. The maximum response, Emax, Will be reduced if efficacy is sufficiently lov.
+
+The definition of efficacy has been object for discussion."! The only way in which absolute measures of efficacy have been obtained is by single ion channel analysis of
+ligand gated ion channels. It is still not possible to do this for G protein-linked receptors.
+
+In the case of the glycine receptor and the nicotinic acetylcholine receptor (muscle type), it has been proposed by Sivilotti ef al. that opening of the ion channel involves
+two steps after agonist is bound. Firstly a conformation change to a higher affinity (but still shut) form, followed by the conformation change from shut to open.(5161 it was
+found that partial agonism results from deficiency in the first step, and that the opening and shutting steps are essentially the same for both full and partial agonists
+This has been confirmed and extended by Sine and colleagues (2009).!7! The implication of this work" is that efficacy has to be defined by at least two equilibrium
+constants (or, more generally, by four rate constants).
+
+‘The combined influences of affinity and efficacy determine how effectively a drug will produce a biological effect, a property known as potency.
+Medicine
+
+In medicine, efficacy is the capacity for beneficial change (or therapeutic effect) of a given intervention (for example a drug, medical device, surgical procedure, or a
+public health intervention).®! Establishment of the efficacy of an intervention is often done relative to other available interventions, with which it will be compared.!9)
+Specifically, efficacy refers to ‘whether a drug demonstrates a health benefit over a placebo or other intervention when tested in an ideal situation, such as a tightly
+controlled clinical trial."("°l These studies focus on a primary parameter to be shown statistically different between placebo and intervention groups. Comparisons of this
+
+type are called ‘explanatory’ randomized controlled trials, whereas ‘pragmatic’ trials are used to establish the effectiveness of an intervention regarding also non-specific
+parameters. tation needa)
+
+Effectiveness refers to "how the drug works in a real-world situation",!""! and is "often lower than efficacy because of interactions with other medications or health
+
+conditions of the patient, sufficient dose or duration of use not prescribed by the physician or followed by the patient, or use for an off-label condition that had not been
+tested. "(101121
+Theology
+
+Scripture
+
+In Protestant Theology (esp. in Lutheran but also in Calvinist doctrine) efficacy is an attribute of Scripture. The efficacy of Scripture means that itis united with the power
+of the Holy Spirit and with it, not only demands, but also creates the acceptance of its teaching!"3II™4l'5] and that this teaching produces faith and obedience. Efficacy
+further means that Holy Scripture is not a dead letter, but rather, the power of the Holy Spirit is inherent in it!'®1{'71l'81 and that Scripture does not compel a mere
+intellectual assent to its doctrine, resting on logical argumentation, but rather it creates the living agreement of faith.!"9l2l The Smaicald Articles affirm, "in those things
+which concern the spoken, outward Word, we must firmly hold that God grants His Spirit or grace to no one, except through or with the preceding outward Word."2"! The
+Formula of Concord teaches that when humans reject the calling of the Holy Spirit, itis not a result of the Word being less efficacious. Instead, contempt for the means
+of grace is the result of "the perverse will of man, which rejects or perverts the means and instrument of the Holy Ghost, which God offers him through the call, and
+resists the Holy Ghost, who wishes to be efficacious, and works through the Word..."(22)
+
+Prayer
+Main article: Efficacy of prayer § The Holy Spirit and Christian teaching
+References [edit]
+
+1. 4 Zimmer, Carl (20 November 2020). "2 Companies Say Their Vaccines Are 95%
+Effective. What Does That Mean? You might assume that 95 out of every 100
+people vaccinated will be protected from Covid-19. But that's not how the math
+works". The New York Times. Retrieved 21 November 2020
+
+2.%#® Holford NH, Sheiner LB (1981). "Understanding the dose-effect relationship:
+clinical application of pharmacokinetic-pharmacodynamic models”. Clinical
+Pharmacokinetics. 6 (6): 429-53. doi:10.2165/00003088-198106060-00002 cz
+PMID 7032803 :2. S2CID 93378772
+
+3. ® Neubig RR, Spedding M, Kenakin T, Christopoulos A (December 2003).
+“Intemational Union of Pharmacology Committee on Receptor Nomenclature and
+Drug Classification. XXXVIIl Update on terms and symbols in quantitative
+pharmacology”. Pharmacological Reviews. 55 (4): 597-606
+doi:10.1124/pr.55.4.402. PMID 146574182. S2CID 172957202
+
+4. * Colquhoun D (1998). "Binding, gating, affinity and efficacy. The interpretation of
+structure-activity relationships for agonists and of the effects of mutating
+receptors” 7. British Jounal of Pharmacology. 125 (5): 923-948.
+doi:10.1038/sj.bjp.0702164:2. PMC 1565672. PMID 984663027
+
+5.  Burzomato V, Beato M, Groot-Kormelink P, Colquhoun D & Sivilotti LG (2004)
+"Single-channel behavior of heteromeric alphatbeta glycine receptors: An attempt
+to detect a conformational change before the channel opens” :2. Joumal of
+Neuroscience. 24 (48): 10924-10940. doi:10.1523/jneurosci 3424-04 2004
+PMC 6730200 8. PMID 15574743 «2
+
+6.*2 Lape R, Colquhoun D, Sivlotti L (2008). "On the nature of partial agonism in
+the nicotinic receptor superfamily” cz. Nature. 454 (7205): 722-728
+Bibcode:2008Natur.454..722L c2. doi:10.1038/nature07139 2. PMC 2629928,
+PMID 186333532
+
+7.  Mukhtasimova N, Lee WY, Wang HL, Sine SM (2009). "On the nature of partial
+agonism in the nicotinic receptor superfamily" c2. Nature. 459 (7245): 451—454.
+doi:10.1038/nature07923 cz. PMC 27123489. PMID 193399702
+1. 4 Zimmer, Carl (20 November 2020). "2 Companies Say Their Vaccines Are 95%
+Effective. What Does That Mean? You might assume that 95 out of every 100
+people vaccinated will be protected from Covid-19. But that's not how the math
+works". The New York Times. Retrieved 21 November 2020
+
+* Hargreaves WA, Catalano RA, Hu TW, Cuffel B (January 1998). "3.11 - Mental
+Health Services Research”. In Bellack AS, Hersen M (eds.). Comprehensive
+Clinical Psychology. Oxford: Pergamon. pp. 225-241
+doi:10.1016/b0080-4270(73)00275-3:2. ISBN 978-0-08-042707-2
+
+2.*2© Holford NH, Sheiner LB (1981). "Understanding the dose-effect relationship: 9. * Polit DF, Beck CT (December 2015). Nursing research : generating and
+clinical application of pharmacokinetic-pharmacodynamic models”. Clinical assessing evidence for nursing practice (Tenth ed.). Philadelphia.
+Pharmacokinetics. 6 (6): 429-53. doi:10.2165/00003088-198106060-00002 cz ISBN 9781496300232. OCLC 919860667 x2
+PMID 7032803 :2. S2CID 93378772 10. *# Thaul, Susan (2012-06-25). How FDA Approves Drugs and Regulates Their
+3. ® Neubig RR, Spedding M, Kenakin T, Christopoulos A (December 2003). Safety and Effectiveness (CRS 7-5700, R41983) 2) (CRS Report for Congress).
+“International Union of Pharmacology Committee on Receptor Nomenclature and Washington, DC: Congressional Research Senvice (CRS). p. 4
+Drug Classification. XXXVIII. Update on terms and symbols in quantitative 11. * Deen J, Von Seidlein L, Clemens JD (2014-01-01). "6 - Issues and Challenges of
+pharmacology”. Pharmacological Reviews. 55 (4): 597-606. Public-Health Research in Developing Countries”. In Farrar J, Hotez PJ, Junghanss
+doi:10.1124/pr.55.4.402. PMID 146574182. S2CID 172957202 T, Kang G (eds.). Manson's Tropical Infectious Diseases (Twenty-third ed.)
+4. ® Colquhoun D (1998). "Binding, gating, affinity and efficacy. The interpretation of pp. 40-48.e1. doi:10.1016/b978-0-7020-5101-2.00006-62
+structure-activity relationships for agonists and of the effects of mutating ISBN 978-0-7020-5101-2. S2CID 168504597 oz
+receptors” 7. British Jounal of Pharmacology. 125 (5): 923-948. 12. Porta M, ed. (2008). A Dictionary of Epidemiology (Sth ed.). Oxford, ENG: Oxford
+doi:10.1038/sj.bjp.0702164:2. PMC 1565672. PMID 984663027 University Press.
+5. * Burzomato V, Beato M, Groot-Kormelink P, Colquhoun D & Siilotti LG (2004), 13. * Romans 1:16 2, 1 Thessalonians 2:13.
+“Single-channel behavior of heteromeric alphatbeta glycine receptors: An attempt 14. 4 Graebner AL (1910). Outlines of Doctrinal Theology :2. Saint Louis, MO:
+to detect a conformational change before the channel opens” r7. Journal of Concordia Publishing House. p. 11. Archived from [showcase.netins.net/web
+Neuroscience. 24 (48): 10924-10940. doi-10.1523/jneurosci3424-04.2004 g. Ibilarson/bibliology txt the original] on 2006-07-12. {{cite book}}: Check |ur1=
+PMC 6730200 8. PMID 185747432 value (help)
+6. *#® Lape R, Colquhoun D, Sivilott L (2008). "On the nature of partial agonism in 45. * Engelder TE (1934). Popular Symbolios: The Doctrines of the Churches of
+the nicotinic receptor superfamily" r2. Nature. 454 (7205): 722-728, Christendom and Of Other Religious Bodies Examined in the Light of Scripture 2.
+Bibcode:2008Natur.454..722L c2. doi:10.1038/nature07139 2. PMC 2629928, Saint Louis, MO: Concordia Publishing House. p. 27.
+PMID 18633353 2. 16. * Romans 1:16 2, 1 Thessalonians 1:52
+7. * Mukhtasimova N, Lee WY, Wang HL, Sine SM (2009). "On the nature of partial 47. 4 Psalm 119-105 c2, 2 Peter 1:19
+agonism in the nicotinic receptor superfamily" c2. Nature. 459 (7245): 451—454. 48. *.2 Timothy 1:16-17 Ephesians 33-42
+doi:10.1038/nature07923 cz. PMC 27123489. PMID 193399702 49. * John 6:63c4, Revelation 1:3¢4, Ephesians 3:3-4et
+20.8 John 7172
+21. * Smalcald Articles, part 8, "Of Confession” 2
+22. 4 Solid Declaration, article xii, “Election”, par. 41.2
+vite Pharmacology [hide]
+
+Excitatory Agonist - Endogenous agonist Irreversible agonist - Partial agonist - Superagonist - Physiological agonist
+
+Ligand (biochemistry)
+Drug - Neurotransmitter - Agonist-antagonist - Pharmacophore
+Activity at receptor
+
+Other effects of ligand
+
+Pharmacodynamics
+Analysis. igand binding assay, Patch-clamp)
+Metrics,
+Metrics,
+Pharmacokinetics. LADME
+
+Compartment - Bioequivalence
+
+Inhibitory Antagonist - Competitive antagonist - Irreversible antagonist - Physiological antagonist - Inverse agonist - Enzyme inhibitor
+
+Mechanism of action « Mode of action - Binding - Receptor (biochemistry) - Desensitization (pharmacology)
+Selectivity (Binding, Functional) « Pleiotropy (drugs) « Non-specific effect of vaccines - Adverse effects « Toxicity (Neurotoxicity)
+Dose-response relationship - Hill equation (biochemistry) - Schild plot - Del Castillo Katz model « Cheng-Prussoff Equation - Methods (Organ bath,
+
+Efficacy - Intrinsic activity - Potency (EC50, IC50, ED50, LDS0, TD50) - Therapeutic index- Affinity
+Loading dose - Volume of distribution (Initial) Rate of infusion - Onset of action « Biological half-life - Plasma protein binding - Bioavailability
+
+(LIADME: (Liberation) - Absorption - Distribution - Metabolism - Excretion (Clearance)
+
+Neuroscience and psychology Neuropsychopharmacology - Neuropharmacology « Psychopharmacology - Electrophysiology
+
+Medicine
+
+Clinical pharmacology « Pharmacy + Medicinal chemistry - Pharmacoepidemiology
+
+Pharmacoinformatics - Pharmacogenetics - Pharmacogenomics
+
+Coinduction (anaesthetics) - Combination therapy - Functional analog (chemistry) « Polypharmacology - Chemotherapy - List of drugs «
+
+Related Biochemistry and genetics
+Wea Toxicology Pharmacotoxicology « Neurotoxicology
+Drug discovery Classical pharmacology - Reverse pharmacology
+Photopharmacology « Immunopharmacology - Cell biology « Physiology
+WHO list of essential medicines
+Other
+
+Tolerance and resistance Drug tolerance - Tachyphylaxis - Drug resistance - Antibiotic resistance - Multiple drug resistance
+
+‘Antimicrobial pharmacodynamics - Minimum inhibitory concentration + Bacteriostatic - Minimum bactericidal concentration -
+
+Antimicrobial pharmacology 01)"

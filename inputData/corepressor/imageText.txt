@@ -1,0 +1,269 @@
+
+Corepressor
+
+In the field of molecular biology, a corepressor is a molecule that represses the expression of genes.""l In prokaryotes, corepressors are small molecules whereas in
+eukaryotes, corepressors are proteins. A corepressor does not directly bind to DNA, but instead indirectly regulates gene expression by binding to repressors.
+
+A corepressor downregulates (or represses) the expression of genes by binding to and activating a repressor transcription factor. The repressor in turn binds to a
+gene's operator sequence (segment of DNA to which a transcription factor binds to regulate gene expression), thereby blocking transcription of that gene.
+
+Contents [hide]
+a ae
+Examples of corepressors
+
+NCoR
+
+NCOoR (nuclear receptor co-repressor) directly binds to the D and E domains of nuclear receptors and represses their transcriptional activity.) Class | histone
+deacetylases are recruited by NCoR through SIN3, and NCOR directly binds to class II histone deacetylases.®101]
+
+Silencing mediator for retinoid and thyroid-hormone receptor
+
+SMRT (silencing mediator of retinoic acid and thyroid hormone receptor), also known as NCOR2, is an alternatively spliced SRC-1 (steroid receptor coactivator-1) (891 it
+is negatively and positively affected by MAPKKK (mitogen activated protein kinase kinase kinase) and casein kinase 2 phosphorylation, respectively." SMRT has two
+major mechanisms: first, similar to NCOR, SMRT also recruits class | histone deacetylases through SIN3 and directly binds to class II histone deacetylases."! Second, it
+binds and sequesters components of the general transcriptional machinery, such as transcription factor II B.[81"91
+Role in biological processes
+Corepressors are known to regulate transcription through different activation and inactivation states.!"7II"1
+
+NCoR and SMRT act as a corepressor complex to regulate transcription by becoming activated once the ligand is bound.!"2I("3I("4II15] Knockouts of NCOR resulted in
+embryo death, indicating its importance in erythrocytic, thymic, and neural system development.!"51I"61
+
+Mutations in certain corepressors can result in deregulation of signals.\"3) SMRT contributes to cardiac muscle development, with knockouts of the complex resulting in
+less developed muscle and improper development.!"3)
+
+NCOoR has also been found to be an important checkpoint in processes such as inflammation and macrophage activation_{'5)
+
+Recent evidence also suggests the role of corepressor RIP140 in metabolic regulation of energy homeostasis.!'4)
+Clinical significance
+
+Diseases
+Since corepressors participate and regulate a vast range of gene expression, it is not surprising that aberrant corepressor activities can cause diseases.!"7]
+
+Acute myeloid leukemia (AML) is a highly lethal blood cancer characterized by uncontrolled myeloid cell growth.!"8! Two homologous corepressor genes, BCOR (BCL6
+corepressor) and BCORL1, are recurrently mutated in AML patients.!'920 BCOR works with multiple transcription factors and is known to play vital regulatory roles in
+embryonic development.!"8I!'91 Clinical results detected BCOR somatic mutations in ~4% of an unselected group of AML patients, and ~17% in a subset of patients who
+lack known AML-causing mutations. "8191 similarly, BCORL1 is a corepressor that regulates cellular processes,'21! and was found to be mutated in ~6% of tested AML
+patients.!'820l These studies point out a strong association between corepressor mutations and AML. Further corepressor research may reveal potential therapeutic
+targets for AML and other diseases
+
+Therapeutic Potential
+Corepressors present many potential avenues for drugs to target a vast range of diseases.|?1
+
+BCL6 upregulation is observed in cancers such as diffuse large B-cell lymphomas (DLBCLs),224125128] colorectal cancer,27128) and lung cancer.291201 BCL-6
+corepressor, SMRT, NCR, and other corepressors are able to interact with and transcriptionally repress BCL6.(231(241(251261 small-molecule compounds, such as
+synthetic peptides that target BCL6 and corepressor interactions,!254) as well as other protein-protein interaction inhibitors,(6) have been shown to effectively kill
+cancer cells.
+
+Activated liver X receptor (LXR) forms a complex with corepressors to suppress the inflammatory response in rheumatoid arthritis, making LXR agonists like GW3965 a
+potential therapeutic strategy.(°11l21 Ursodeoxycholic acid (UDCA), by upregulating the corepressor small heterodimer partner interacting leucine zipper protein (SMILE),
+inhibits the expression of IL-17, an inflammatory cytokine, and suppresses Th17 cells, both implicated in rheumatoid arthritis.291%41 This effect is dose-dependent in
+humans, and UCDA is thought to be another prospective agent of rheumatoid arthritis therapy.!331
+References [edit]
+
+1.4 Privalsky, Martin L., ed. (2001). Transcriptional Corepressors: Mediators of
+Eukaryotic Gene Repression &. Current Topics in Microbiology and Immunology.
+Vol. 254. Berlin, Heidelberg: Springer Berlin Heidelberg.
+doi:10.1007/978-3-662-10595-5 cz. ISBN 978-3-642-08709-7. S2CID 8922796 :2
+
+2. Evans PD, Jaseja M, Jeeves M, Hyde El (December 1996). "NMR studies of
+the Escherichia coli Trp repressor.trpRs operator complex" 2. Eur. J. Biochem. 242
+(3): 567-75. doi:10.1111/}.1432-1033.1996.0567r-x @. PMID 9022683.
+
+3. 4 Foster JB, Slonczewski J (2010). Microbiology: An Evolving Science
+(Second ed.). New York: W. W. Norton & Company. ISBN 978-0-393-93447-2
+
+4. 4 Jenster G (August 1998). "Coactivators and corepressors as mediators of nuclear
+receptor function: an update”. Mol. Cell. Endocrinol. 143 (1-2): 1-7.
+doi:10.1016/S0303-7207(98)00145-2 2. PMID 9806345 :2. S2CID 26244186.
+
+5. * Lazar MA (2003). "Nuclear receptor corepressors” . Nucl Recept Signal. 1
+001. doi:10.1621/nrs.01001 @. PMC 1402229. PMID 166041742
+
+6. * Goodson M, Jonas BA, Privalsky MA (2005). "Corepressors: custom tailoring
+and alterations while you wait" 4. Nucl Recept Signal. 3 (Oct 21): £003
+doi:10.1621/nrs.03003 2. PMC 1402215. PMID 166041712
+
+7.4 Schaefer U, Schmeier S, Bajic VB (January 2011). "TcoF-DB: dragon database
+for human transcription co-factors and transcription factor interacting proteins” cz
+Nucleic Acids Res. 39 (Database issue): D106—10. doi:10.1093/nar/gkq945 2
+PMC 3013796 3. PMID 20965969 2
+
+8.42 ed ef Bolander, Franklyn F. (2004), "Hormonally Regulated Transcription
+Factors” zt, Molecular Endocrinology, Elsevier, pp. 387-443,
+doi:10.1016/b978-012111232-5/50013-0 x2, ISBN 978-0-12-111232.5, retrieved
+2020-10-25
+
+9. "2 Chinnadurai, G (February 2002). "CtBP. an Unconventional Transcriptional
+Corepressor in Development and Oncogenesis” 7. Molecular Cell. 9 (2): 213-224.
+doi:10.1016/S1097-2765(02}00443-4. PMID 11864595 v2
+
+10. "2" © Kammer, Gary M. (2004), "Estrogen, Signal Transduction, and Systemic
+Lupus Erythematosus: Molecular Mechanisms" , Principles of Gender-Specific
+Medicine, Elsevier, pp. 1082-1092, doi:10.1016/b978-012440905-7/50375-3 2,
+ISBN 978-0-12-440905-7, retrieved 2020-10-25
+
+11. * Kadamb, Rama; Mittal, Shilpi: Bansal, Nidhi; Batra, Harish: Saluja, Daman
+(August 2013). "Sin3: Insight into its transcription regulatory functions”. European
+Journal of Cell Biology. 92 (8-9): 237-246. doi:10.1016/j.ejcb.2013.09.001 2
+PMID 2418916922
+
+12. "2 Rosenfeld, M. G. (2006-06-01). "Sensors and signals: a
+coactivator/corepressor/epigenetic code for integrating signal-dependent
+programs of transcriptional response”. Genes & Development. 20 (11):
+1405-1428. doi:10.1101/gad.1424806 3. ISSN 0890-9369 cz. PMID 1675117912
+
+13. "2" 64 Battaglia, Sebastiano; Maguire, Orla; Campbell, Moray J. (2010).
+“Transcription factor co-repressors in cancer biology: roles and targeting" ct
+Intemational Journal of Cancer. 126 (11): 2511-9. doi:10.1002/ijc.25181 2
+PMC 2847647 3. PMID 20091860
+
+14. "2 ® Christian, Mark; White, Roger; Parker, Malcolm G. (August 2006)
+"Metabolic regulation by the nuclear receptor corepressor RIP140" c2. Trends in
+Endocrinology & Metabolism. 17 (6): 243-250. doi:10.1016/j.ter.2006.06.008 2
+PMID 16815031. S2CID 45870845
+
+15. "#2 ¢ Ogawa, S.: Lozach, J.; Jepsen, K.; Sawka-Verhelle, D.; Perissi, V.; Sasik,
+R.; Rose, D. W.: Johnson, R. S.: Rosenfeld, M. G.; Glass, C. K. (2004-10-05). "A
+nuclear receptor corepressor transcriptional checkpoint controlling activator
+protein 1-dependent gene networks required for macrophage activation”
+Proceedings of the National Academy of Sciences. 101 (40): 14461-14466
+Bibcode:2004PNAS..101144610 12. doi:10.1073/pnas.0405786101 3
+ISSN 0027-8424 e2. PMC 521940. PMID 15452344c2
+
+16. * Jepsen, Kristen; Hermanson, Ola: Onami, Thandi M; Gleiberman, Anatoli S:
+Lunyak, Victoria; McEvilly, Robert J: Kurokawa, Riki; Kumar, Vivek: Liu, Forrest;
+Seto, Edward; Hedrick, Stephen M (September 2000). "Combinatorial Roles of
+the Nuclear Receptor Corepressor in Transcription and Development" :2. Cell. 102
+(6): 753-763. doi:10.1016/S0092-8674(00)00064-7 @. PMID 11030619 «2
+S2CID 15645977 2
+
+17. * Privalsky, Martin L. (March 2004). "The Role of Corepressors in Transcriptional
+Regulation by Nuclear Hormone Receptors” c2. Annual Review of Physiology. 66 (1):
+315-360. doi:10.1146/annurev physiol. 65.032802. 155556 c7. ISSN 0066-4278 2
+PMID 14977406 <2
+
+18.822 e4Tiacci, E.; Grossmann, V.; Martelli, M. P.; Kohlmann, A.: Haferlach, T.;
+Falini, B. (2011-12-30). "The corepressors BCOR and BCORL1: two novel players
+in acute myeloid leukemia" cz. Haematologica. 97 (1): 3-5.
+doi:10.3324/haematol.2011.057901 @. ISSN 0390-6078 c2. PMC 32489233,
+
+PMID 222103272
+
+19. "22 © Grossmann, Vera: Tiacci, Enrico: Holmes, Antony B.; Kohlmann, Alexander;
+Martelli, Maria Paola; Kern, Wolfgang: SpanholRosseto, Ariele: Klein, Hans-Ulrich;
+Dugas, Martin; Schindela, Sonja; Trifonov, Vladimir (2011-12-01). "Whole-exome
+sequencing identifies somatic mutations of BCOR in acute myeloid leukemia with
+normal karyotype". Blood. 118 (23): 6153-6163. doi:10.1182/blood-
+2011-07-365320 2. ISSN 0006-4971 «7. PMID 220120662.
+20
+
+2
+
+22.
+
+23.
+
+24.
+
+25.
+
+26
+
+2.
+
+28.
+
+29
+
+30.
+
+El
+
+32
+
+33
+
+34.
+
+2 Li, Meng: Collins, Roxane: Jiao, Yuchen: Quillette, Peter: Bixby, Dale: Erba,
+Harry: Vogelstein, Bert; Kinzler, Kenneth W.: Papadopoulos, Nickolas; Malek,
+Sami N. (2011-11-24). "Somatic mutations in the transcriptional corepressor gene
+BCORLI in adult acute myelogenous leukemia" cz. Blood. 118 (22): 5914-5917.
+doi:10.1182/blood-2011-05-356204@. ISSN 0006-4971 7. PMC 3228503 3.
+PMID 21989985 e2
+* Pagan, Julia K.; Amold, Jeremy; Hanchard, Kim J.; Kumar, Raman: Bruno,
+Tiziana; Jones, Mathew J. K.; Richard, Derek J.; Forrest, Alistair; Spurdle,
+‘Amanda; Verdin, Eric; Crossley, Merlin (2007-03-22). "A Novel Corepressor,
+BCoR-L1, Represses Transcription through an Interaction with CtBP" cz. Journal of
+Biological Chemistry. 282 (20): 15248-15257. doi:10.1074/jbc.m700246200 3,
+ISSN 0021-9258 e2. PMID 17379597
+* Vaiopoulos, Aristeidis G.: Kostakis, loannis D.: Athanasoula, Kalliopi Ch.;
+Papavassiliou, Athanasios G. (June 2012). "Targeting transcription factor
+corepressor in tumor cells” 7. Cellular and Molecular Life Sciences. 69 (11)
+1745-1753. doi:10.1007/s00018-012-0986-5 :2. ISSN 1420-682X
+PMID 225277192. S2CID 16407925
+“@® © Cerchietti, Leandro C.; Ghetu, Alexandru F.; Zhu, Xiao; Da Silva, Gustavo F.;
+Zhong, Shijun; Matthews, Marilyn; Bunting, Karen L.: Polo, Jose M.; Farés,
+Christophe; Arrowsmith, Cheryl H.; Yang, Shao Ning (April 2010). "A Small-
+Molecule Inhibitor of BCLS Kills DLBCL Cells In Vitro and In Vivo" 2. Cancer Cell
+7 (4): 400-411. doi10.1016)}.ccr.2009.12.050 a. PMC 28583953.
+PMID 203853642
+"8 © Cerchietti, Leandro C.; Yang, Shao Ning: Shaknovich, Rita; Hatzi, Katerina:
+Polo, Jose M.: Chadbum, Amy; Dowdy, Steven F.; Melnick, Ari (2009-04-09). "A
+peptomimetic inhibitor of BCL6 with potent antilymphoma effects in vitro and in
+vivo" @. Blood. 113 (15): 3397-3405. doi:10.1182/blood-2008-07-168773 2.
+ISSN 0006-4971 cz. PMC 2668844. PMID 18927431
+“2 Parekh, Samir; Privé, Gilbert; Melnick, Ari (January 2008). "Therapeutic
+targeting of the BCL6 oncogene for diftuse large B-cell lymphomas” c2. Leukemia &
+Lymphoma. 49 (5): 874-882. doi:10.1080/10428190801895345
+ISSN 1042-8194 2. PMC 2748726. PMID 18452090 2
+"8 © Yasui, Takeshi; Yamamoto, Takeshi: Sakai, Nozomu: Asano, Kouhei: Takai,
+Takafumi: Yoshitomi, Yayoi; Davis, Melinda: Takagi, Terufumni; Sakamoto, Kotaro:
+Sogabe, Satoshi; Kamada, Yusuke (September 2017). "Discovery of a novel
+B-cell lymphoma 6 (BCL6)-corepressor interaction inhibitor by utilizing structure-
+based drug design” 2. Bioorganic & Medicinal Chemistry. 25 (17): 4876-4886
+doi:10.1016/j.bmc.2017.07.037 cz. PMID 28760529.
+* Sena, Paola; Mariani, Francesco; Benincasa, Marta: De Leon, Maurizio Ponz: Di
+Gregorio, Carmela: Mancini, Stefano: Cavani, Francesco: Smargiassi, Alberto:
+Palumbo, Carla; Roncucci, Luca (January 2014). "Morphological and quantitative
+analysis of BCL6 expression in human colorectal carcinogenesis” 7. Oncology
+Reports. 31 (1): 103-110. doi:10.3892/or 2013. 2846. ISSN 1021-335X2
+PMID 24220798 «2
+* Sun, Naihui; Zhang, Liang: Zhang, Chongguang: Yuan, Yuan (December 2020)
+“miR-144-3p inhibits cell proliferation of colorectal cancer cells by targeting BCL6
+via inhibition of Wnt/f-catenin signaling’ :2. Cellular & Molecular Biology Letters. 25
+(1): 19. doi:10.1186/s11658-020-00210-3 -2. ISSN 1425-81532. PMC 70794153.
+PMID 32206063 e2
+* Deb, Dhruba: Rajaram, Satwik; Larsen, Jill E.; Dospoy, Patrick D.: Marullo,
+Rossella: Li, Long Shan: Avila, Kimberley: Xue, Fengtian: Cerchietti, Leandro:
+Minna, John D.; Altschuler, Steven J. (2017-06-01). "Combination Therapy
+Targeting BCL6 and Phospho-STAT3 Defeats Intratumor Heterogeneity in a
+Subset of Non-Small Cell Lung Cancers” . Cancer Research. 77 (11): 3070-3081
+doi:10.1158/0008-5472. CAN-15-3052 2. ISSN 0008-5472 2. PMC 5489259 3.
+PMID 2837745322
+* Sun, Chengcao: Li, Shujun: Yang, Cuil: Xi, Yongyong: Wang, Liang: Zhang,
+Feng: Li, Dejia (February 2016). "MicroRNA-187-3p mitigates non-small cell lung
+cancer (NSCLC) development through down-regulation of BCL6" 7. Biochemical and
+Biophysical Research Communications. 471 (1): 82-88
+doi:10.1016/,.bbrc.2016.01.175 cz. PMID 26845350
+* Venteclef, N.; Jakobsson, T.: Ehrlund, A; Damdimopoulos, A.: Mikkonen, L.:
+Ellis, E.: Nilsson, L-M.; Parini, P; Janne, O. A: Gustafsson, J-A.; Steffensen, K.
+R. (2010-02-15). "GPS2-dependent corepressor/SUMO pathways govern anti-
+inflammatory actions of LRH-1 and LXR in the hepatic acute phase response” 2
+Genes & Development. 24 (4): 381-395. doi:10.1101/gad.545110 ez
+ISSN 0890-9369 «2. PMC 2816737. PMID 20159957
+* Yoon, Chong-Hyeon; Kwon, YonguJin; Lee, Sang-Won: Park, Yong-Beom: Lee,
+Soo-Kon; Park, Min-Chan (January 2013). "Activation of Liver X Receptors,
+Suppresses Inflammatory Gene Expressions and Transcriptional Corepressor
+Clearance in Rheumatoid Arthritis Fibroblast Like Synoviocytes" c?. Journal of
+Clinical Immunology. 33 (1): 190-199. doi:10.1007/s10875-012-9799-4 «2
+ISSN 0271-9142 2. PMID 22990668 2. S2CID 15965750
+“2 Lee, Eun-Jung: Kwon, Jeong-Eun; Park, Min-Jung; Jung, Kyung-Ah; Kim, Da-
+Som: Kim, Eun-Kyung: Lee, Seung Hoon: Choi, Jong Young: Park, Sung-Hwan:
+Cho, Mi-La (August 2017). "Ursodeoxycholic acid attenuates experimental
+autoimmune arthritis by targeting Th17 and inducing pAMPK and transcriptional
+corepressor SMILE" @. Immunology Letters. 188: 1-8.
+doi:10.1016/,.imlet.2017.05.011 7. PMID 28539269
+* Sarkar, Sujata; Fox, David A. (May 2010). "Targeting IL-17 and Th17 Cells in
+Rheumatoid Arthritis” . Rheumatic Disease Clinics of North America. 36 (2):
+345-366. doi:10.1016/jrdc.2010.02.006.7. PMID 20510238.

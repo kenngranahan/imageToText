@@ -1,0 +1,58 @@
+
+Some chiral three-dimensional objects, such as the helix, can be assigned a right or left
+handedness, according to the right-hand rule.
+
+Many other familiar objects exhibit the same chiral symmetry of the human body, such as
+gloves and shoes. Right shoes differ from left shoes only by being mirror images of each
+other. In contrast thin gloves may not be considered chiral if you can wear them inside-
+out citation needed
+
+The J, L, S and Z-shaped tetrominoes of the popular video game Tetris also exhibit chirality,
+but only in a two-dimensional space. Individually they contain no mirror symmetry in the plane
+Chirality and symmetry group
+
+‘A figure is achiral if and only if its symmetry group contains at least one orientation-reversing isometry. (In Euclidean geometry any isometry can be written as
+
+++ Av + bwith an orthogonal matrix A and a vector b. The determinant of A is either 1 or -1 then. If it is -1 the isometry is orientation-reversing, otherwise it is
+orientation-preserving
+
+‘A general definition of chirality based on group theory exists." It does not refer to any orientation concept: an isometry is direct if and only if itis a product of squares of
+isometries, and if not, it is an indirect isometry. The resulting chirality definition works in spacetime.7I1
+Chirality in three dimensions
+
+In three dimensions, every figure that possesses a mirror plane of symmetry S;, an inversion center of symmetry So, or a
+higher improper rotation (rotoreflection) S, axis of symmetry"! is achiral. (A plane of symmetry of a figure F is a plane P,
+
+such that Fis invariant under the mapping (z, y, 2) > («,y, ~2), when P is chosen to be the #-y-plane of the
+
+coordinate system. A center of symmetry of a figure F is a point C, such that F is invariant under the mapping
+
+(x,y, 2) > (—2, -y, —2), when C is chosen to be the origin of the coordinate system.) Note, however, that there are achiral
+figures lacking both plane and center of symmetry. An example is the figure
+
+Fy = {(1,0,0), (0,1, 0), (—1, 0,0), (0, -1, 0), (2, 1,1), (—1, 2, —1), (—2, -1, 1), (1, -2, -1)}
+
+which is invariant under the orientation reversing isometry (x,y, 2) -> (—y,.,—z) and thus achiral, but it has neither plane
+
+nor center of symmetry. The figure
+Fy = {(1,0,0), (-1, 0,0), (0,2, 0), (0, -2,0), (1,1,1), (-1,-1, -1)}
+also is achiral as the origin is a center of symmetry, but it lacks a plane of symmetry.
+
+Achiral figures can have a center axis
+-2,—-1,1), (1,—2, -1)}
+
+2) and thus achiral, but it has neither plane
+Knot theory
+
+Akknot is called achiral if it can be continuously deformed into its mirror image, otherwise it is called a chiral knot. For example,
+the unknot and the figure-eight knot are achiral, whereas the trefoil knot is chiral
+References [edit]
+
+1.4 Petitjean, M. (2020). "Chirality in metric spaces. In memoriam Michel Deza" . Optimization Letters. 14 (2): 329-338. doi:10.1007/s11590-017-1189-7,
+2. 4 Petitjean, M. (2021). "Chirality in geometric algebra” cz. Mathematics. 9 (13). 1521. doi:10.3390/math9131521,
+
+3. 4 Petitjean, M. (2022). "Chirality in affine spaces and in spacetime”. arkiv:2203.04066 @ [math-ph]
+
+4.4°2. Symmetry operations and symmetry elements” @. chemwiki ucdavis. edu. Retrieved 25 March 2016.
+Further reading
++ Flapan, Erica (2000). When Topology Meets Chemistry. Outlook. Cambridge University Press and Mathematical Association of America. ISBN 0-521-66254-0.

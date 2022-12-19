@@ -1,0 +1,412 @@
+
+Origin and history
+
+Chonarites were formed by the accretion of particles of dust and grit present in the primitive Solar System which gave rise to asteroids over 4.54 billion years ago.
+These asteroid parent bodies of chondrites are (or were) small to medium-sized asteroids that were never part of any body large enough to undergo metting and
+planetary differentiation. Dating using 2°Pb/24Pb gives an estimated age of 4,566.6 + 1.0 Ma,®l matching ages for other chronometers. Another indication of their age
+is the fact that the abundance of non-volatile elements in chondrites is similar to that found in the atmosphere of the Sun and other stars in our galaxy.
+
+Although chondritic asteroids never became hot enough to melt based upon internal temperatures, many of them reached high enough temperatures that they
+experienced significant thermal metamorphism in their interiors. The source of the heat was most likely energy coming from the decay of short-lived radioisotopes (half-
+lives less than a few million years) that were present in the newly formed Solar System, especially 26A| and Fe, although heating may have been caused by impacts
+onto the asteroids as well. Many chondritic asteroids also contained significant amounts of water, possibly due to the accretion of ice along with rocky material
+
+As a result, many chondrites contain hydrous minerals, such as clays, that formed when the water interacted with the rock on the asteroid in a process known as
+aqueous alteration. In addition, all chondritic asteroids were affected by impact and shock processes due to collisions with other asteroids. These events caused a
+variety of effects, ranging from simple compaction to brecciation, veining, localized melting, and formation of high-pressure minerals. The net result of these secondary
+thermal, aqueous, and shock processes is that only a few known chondrites preserve in pristine form the original dust, chondrules, and inclusions from which they
+formed.
+Enstatite chondrites
+Main article: Enstatite chondrite
+
+Enstatite chondrites (also known as E-type chondrites) are a rare form of meteorite thought to comprise only about 2% of the
+chondrites that fall to Earth!2°) Only about 200 E-Type chondrites are currently known.!2° The majority of enstatite chondrites i
+have either been recovered in Antarctica or have been collected by the American National Weather Association. They tend to
+
+be high in the mineral enstatite (MgSiO3), from which they derive their name.!20) ai
+The Saint Sauveur enstatite
+
+E-type chondrites are among the most chemically reduced rocks known, with most of their iron taking the form of metal or sulfide chondrite (EHS)
+rather than as an oxide. This suggests that they were formed in an area that lacked oxygen, probably within the orbit of
+Mercury.2
+
+Ordinary chondrites
+
+Main article: Ordinary chonatite
+Ordinary chondrites are by far the most common type of meteorite to fall to Earth: about 80% of all meteorites and over 90% of
+chondrites are ordinary chondrites.(10] They contain abundant chondrules, sparse matrix (10-15% of the rock), few refractory
+inclusions, and variable amounts of Fe-Ni metal and troilite (FeS). Their chondrules are generally in the range of 0.5 to 1 mm in
+diameter. Ordinary chondrites are distinguished chemically by their depletions in refractory lithophile elements, such as Ca, Al,
+Ti, and rare earths, relative to Si, and isotopically by their unusually high ‘70/180 ratios relative to "80/80 compared to Earth
+rocks.
+Most, but not all, ordinary chondrites have experienced significant degrees of metamorphism, having reached temperatures well
+above 500 °C on the parent asteroids. They are divided into three groups, which have different amounts of metal and different
+amounts of total iron
+
+* H chondrite have high total iron and high metallic Fe (15-20% Fe-Ni metal by mass!2!), and smaller chondrules than L and
+LL chondrites. They are formed of bronzite, olivine, pyroxene, plagioclase, metals and sulfides and ~42% of ordinary
+chondrite falls belong to this group (see Meteorite fail statistics)
+
++L chonarites have low total iron contents (including 7~11% Fe-Ni metal by mass). ~46% of ordinary chondrite falls belong to
+
+this group, which makes them the most common type of meteorite to fall on Earth ,
++ LL chondrites have low total iron and low metal contents (3-5% Fe-Ni metal by mass of which 2% is metallic Fe and they
+also contain bronzite, oligoclase and olivine).'"7! Only 1 in 10 ordinary chondrite falls belong to this group. "
+
+‘An example of this group is the NWA 869 meteorite
+
+Ordinary chondrite LL6
+
+. Phnom Penh Chondrite L6 ~ 1868
+Carbonaceous chondrites
+
+Main article: Carbonaceous chondrite
+
+Carbonaceous chondrites (also known as C-type chondrites) make up less than 5% of the chondrites that fall on Earth.!23 They
+are characterized by the presence of carbon compounds, including amino acids.!4) They are thought to have been formed the
+farthest from the sun of any of the chondrites as they have the highest proportion of volatile compounds.! Another of their
+main characteristics is the presence of water or of minerals that have been altered by the presence of water.
+
+There are many groups of carbonaceous chondrites, but most of them are distinguished chemically by enrichments in refractory
+lithophile elements relative to Si and isotopically by unusually low ratios of 170/"60 relative to 180/60, when compared to Earth
+rocks. All groups of carbonaceous chondrites except the CH group are named for a characteristic type specimen
+
++ Cl (Ivuna type) chondrites entirely lack chondrules and refractory inclusions; they are composed almost exclusively of fine-
+grained material that has experienced a high degree of aqueous alteration on the parent asteroid. Cl chondrites are highly
+oxidized, brecciated rocks, containing abundant magnetite and sulfate minerals, and lacking metallic Fe. It is a matter of
+‘some controversy whether they once had chondrules and refractory inclusions that were later destroyed during formation of
+hydrous minerals, or they never had chondrules in the first placel#=ton needed. c) chondrites are notable because their chemical compositions closely resemble that
+of the solar photosphere, neglecting the hydrogen and helium. Thus, they have the most "primitive" compositions of any meteorites and are often used as a
+standard for assessing the degree of chemical fractionation experienced by materials formed throughout the Solar System.
+
++ CO (Omans type) and CM (Mighei type) chondrites are two related groups that contain very small chondrules, mostly 0.1 to 0.3 mm in diameter, refractory inclusions
+are quite abundant and have similar sizes to chondrules.
+
+Carbonaceous chondrite CV3 that
+fell in Mexico in 1969 (weight 520 g)
+
+‘+ CM chondrites are composed of about 70% fine-grained material (matrix), and most have experienced extensive aqueous alteration. The much studied
+Murchison meteorite, which fell in Australia in 1969, is the best-known member of this group.
++ CO chondrites have only about 30% matrix and have experienced very little aqueous alteration. Most have experienced small degrees of thermal metamorphism
+
++ CR (Renazzo type), CB (Bencubbin type), and CH (high metal) carbonaceous chondrites are three groups that seem to be related by their chemical and oxygen
+isotopic compositions. All are rich in metallic Fe-Ni, with CH and especially CB chondrites having a higher proportion of metal than all other chondrite groups.
+Although CR chondrites are clearly similar in most ways to other chondrite groups, the origins of CH and CB chondrites are somewhat controversial. Some workers
+conclude that many of the chondrules and metal grains in these chondrites may have formed by impact processes after "normal" chondrules had already formed,
+and thus they may not be "true" chondrites
+
++ CR chondrites have chondrules that are similar in size to those in ordinary chondrites (near 1 mm), few refractory inclusions, and matrix comprises nearly half the
+rock. Many CR chondrites have experienced extensive aqueous alteration, but some have mostly escaped this process
+
+‘+ CH chondrites are remarkable for their very tiny chondrules, typically only about 0.02 mm (20 micrometres) in diameter. They have a small proportion of equally
+tiny refractory inclusions. Dusty material occurs as discrete clasts, rather than as a true matrix. CH chondrites are also distinguished by extreme depletions in
+volatile elements.
+
++ CB chondrites occur in two types, both of which are similar to CH chondrites in that they are very depleted in volatile elements and rich in metal. CB (Subgroup
+a) chondrites are coarse grained, with large, often cm-sized chondrules and metal grains and almost no refractory inclusions. Chondrules have unusual textures
+compared to most other chondrites. As in CH chondrites, dusty material only occurs in discrete clasts, and there is no fine-grained matrix. CB, (Subgroup b)
+chondrites contain much smaller (mm-sized) chondrules and do contain refractory inclusions
+
++ CV (Vigarano type) chondrites are characterized by mm-sized chondrules and abundant refractory inclusions set in a dark matrix that comprises about half the rock
+CV chondrites are noted for spectacular refractory inclusions, some of which reach centimetre sizes, and they are the only group to contain a distinctive type of
+large, once-molten inclusions. Chemically, CV chondrites have the highest abundances of refractory lithophile elements of any chondrite group. The CV group
+includes the remarkable Allende fall in Mexico in 1969, which became one of the most widely distributed and, certainly, the best-studied meteorite in history.
+
++ CK (Karoonda type) chondrites are chemically and texturally similar to CV chondrites. However, they contain far fewer refractory inclusions than CV, they are much
+more oxidized rocks, and most of them have experienced considerable amounts of thermal metamorphism (compared to CV and all other groups of carbonaceous
+chondrites).
+
++ Ungrouped carbonaceous chondrites: A number of chondrites are clearly members of the carbonaceous chondrite class, but do not fit into any of the groups. These
+include: the Tagish Lake meteorite, which fell in Canada in 2000 and is intermediate between Cl and CM chondrites; Coolidge and Loongana 001, which form a
+grouplet that may be related to CV chondrites; and Acfer 094, an extremely primitive chondrite that shares properties with both CM and CO groups
+
+Kakangari chondrites
+
+Three chondrites form what is known as the K (Kakangari type) grouplet: Kakangari, LEW 87232, and Lea Co. 002.25! They are characterized by large amounts of dusty
+matrix and oxygen isotope compositions similar to carbonaceous chondrites, highly reduced mineral compositions and high metal abundances (6% to 10% by volume)
+that are most like enstatite chondrites, and concentrations of refractory lithophile elements that are most like ordinary chondrites.
+
+Many of their other characteristics are similar to the O, E and C chondrites.
+
+Rumuruti chondrites
+
+Rumuruti (R) type chondrites are a very rare group, with only one documented fall out of almost 900 documented chondrite falls. They have a number of properties in
+common with ordinary chondrites, including similar types of chondrules, few refractory inclusions, similar chemical composition for most elements, and the fact that
+170/60 ratios are anomalously high compared to Earth rocks. However, there are significant differences between R chondrites and ordinary chondrites: R chondrites
+have much more dusty matrix material (about 50% of the rock): they are much more oxidized, containing Iitle metallic Fe-Ni, and their enrichments in 170 are higher
+than those of ordinary chondrites. Nearly all the metal they contain is oxidized or in the form of sulfides. They contain fewer chondrules than the E chondrites and
+appear to come from an asteroid's regolith.!271
+Composition
+
+Because chondrites accumulated from material that formed very early in the history of the Solar System, and because chonaritic asteroids did not melt, they have very
+primitive compositions. "Primitive," in this sense, means that the abundances of most chemical elements do not differ greatly from those that are measured by
+spectroscopic methods in the photosphere of the sun, which in turn should be well-representative of the entire Solar System (note: to make such a comparison between
+a gaseous object like the sun and a rock like a chondrite, scientists choose one rock-forming element, such as silicon (Si), to use as a reference point, and then
+compare ratios. Thus, the atomic ratio of Mg/Si measured in the sun (1.07) is identical to that measured in Cl chondrites!28)),
+
+Although all chondrite compositions can be considered primitive, there is variation among the different groups, as discussed above. Cl chondrites seem to be nearly
+identical in composition to the sun for all but the gas-forming elements (e.g., hydrogen (H), carbon (C), nitrogen (N), and noble gases: helium (He), neon (Ne), argon
+(Ar) etc.). Other chondrite groups deviate from the solar composition (Le., they are fractionated) in highly systematic ways:
+
+‘+ At some point during the formation of many chondrites, particles of metal became partially separated from particles of silicate minerals. As a result, chondrites
+coming from asteroids that did not accrete with their full complement of metal (@.g., L, LL, and EL chondrites) are depleted in all siderophile elements, whereas those
+that accreted too much metal (e.g., CH, CB, and EH chondrites) are enriched in these elements compared to the sun
+
++ In a similar manner, although the exact process is not very well understood, highly refractory elements like Ca and Al became separated from less refractory
+elements like Mg and Si, and were not uniformly sampled by each asteroid. The parent bodies of many groups of carbonaceous chondrites contain over-sampled
+grains rich in refractory elements, whereas those of ordinary and enstatite chondrites were deficient in them
+
+‘+ No chondrites except the Cl group formed with a full, solar complement of volatile elements. in general, the level of depletion corresponds to the degree of volatility,
+where the most volatile elements are most depleted
+Petrologic types
+
+‘A chondrite's group is determined by its primary chemical, mineralogical, and isotopic characteristics (above). The degree to which it has been affected by the
+secondary processes of thermal metamorphism and aqueous alteration on the parent asteroid is indicated by its petrologic type, which appears as a number following
+the group name (e.g., an LLS chondrite belongs to the LL group and has a petrologic type of 5). The current scheme for describing petrologic types was devised by Van
+Schmus and Wood in 1967.{"31
+
+The petrologic-type scheme originated by Van Schmus and Wood is really two separate schemes, one describing aqueous alteration (types 1-2) and one describing
+thermal metamorphism (types 3-6). The aqueous alteration part of the system works as follows:
+
++ Type 1 was originally used to designate chondrites that lacked chondrules and contained large amounts of water and carbon. Current usage of type 1 is simply to
+indicate meteorites that have experienced extensive aqueous alteration, to the point that most of their olivine and pyroxene have been altered to hydrous phases
+This alteration took place at temperatures of 50 to 150 °C, so type 1 chondrites were warm, but not hot enough to experience thermal metamorphism. The members
+of the Cl group, plus a few highly altered carbonaceous chondrites of other groups, are the only instances of type 1 chondrites.
+
++ Type 2 chondrites are those that have experienced extensive aqueous alteration, but still contain recognizable chondrules as well as primary, unaltered olivine
+and/or pyroxene. The fine-grained matrix is generally fully hydrated and minerals inside chondrules may show variable degrees of hydration. This alteration probably
+occurred at temperatures below 20 °C, and again, these meteorites are not thermally metamorphosed. Almost all CM and CR chondrites are petrologic type 2; with
+the exception of some ungrouped carbonaceous chondrites, no other chondrites are type 2.
+
+The thermal metamorphism part of the scheme describes a continuous sequence of changes to mineralogy and texture that accompany increasing metamorphic
+temperatures. These chondrites show litle evidence of the effects of aqueous alteration
+
++ Type 3 chondrites show low degrees of metamorphism. They are often referred to as unequilibrated chondrites because minerals such as olivine and pyroxene show
+a wide range of compositions, reflecting formation under a wide variety of conditions in the solar nebula. (Type 1 and 2 chondrites are also unequilibrated.)
+Chonarites that remain in nearly pristine condition, with all components (chondrules, matrix, etc.) having nearly the same composition and mineralogy as when they
+accreted to the parent asteroid, are designated type 3.0. As petrologic type increases from type 3.1 through 3.9, profound mineralogical changes occur, starting in
+the dusty matrix, and then increasingly affecting the coarser-grained components like chondrules. Type 3.9 chondrites still look superficially unchanged because
+chondrules retain their original appearances, but all of the minerals have been affected, mostly due to diffusion of elements between grains of different composition.
+
+«Types 4, 5, and 6 chondrites have been increasingly altered by thermal metamorphism. These are equilibrated chondrites, in which the compositions of most,
+minerals have become quite homogeneous due to high temperatures. By type 4, the matrix has thoroughly recrystallized and coarsened in grain size. By type 5,
+chondrutes begin to become indistinct and matrix cannot be discerned. In type 6 chondrites, chondrules begin to integrate with what was once matrix, and small
+chondrutes may no longer be recognizable. As metamorphism proceeds, many minerals coarsen and new, metamorphic minerals such as feldspar form.
+
+‘Some workers have extended the Van Schmus and Wood metamorphic scheme to include a type 7, although there is not consensus on whether this is necessary. Type
+7 chondrites have experienced the highest temperatures possible, short of that required to produce meting. Should the onset of melting occur the meteorite would
+probably be classified as a primitive achondrite instead of a chondrite
+
+All groups of ordinary and enstatite chondrites, as well as R and CK chondrites, show the complete metamorphic range from type 3 to 6. CO chondrites comprise only
+type 3 members, although these span a range of petrologic types from 3.0 to 3.8
+Presence of water
+
+‘These meteorites either contain a proportion of water or minerals that have been altered by water. This suggests that the asteroid from which these meteorites originate
+must have contained water. At the beginning of the Solar System this would have been present as ice and a few million years after the asteroid formed the ice would
+have melted allowing the liquid water to react with and alter the olivines and pyroxenes. The formation of rivers and lakes on the asteroid is thought to have been
+unlikely if it was sufficiently porous to allow the water to percolated towards its interior, as occurs in terrestrial aquifers !29)
+
+It is thought possible that a proportion of the water present on the Earth comes from the impact of comets and carbonaceous chondrites with the Earth's surface 201311
+
+Origin of life
+COO=) _Carbonaceous chondrites contain more than 600 organic compounds that were synthesized in distinct,
+Nt —d—x Places and at distinct times. These organic compounds include: hydrocarbons, carboxylic acids, alcohols,
+I ketones, aldehydes, amines, amides, sulfonic acids, phosphonic acids, amino acids, nitrogenous bases,
+R
+
+ns ga 2tc-82 These compounds can be divided into three main groups: a fraction that is not soluble in chloroform
+
+imino aci
+
+general structure oF Methanol, chloroform soluble hydrocarbons and a fraction that is soluble in methanol (which includes the
+amino acids),
+
+The first fraction appears to originate from interstellar space and the compounds belonging to the other fractions derive from a
+planetoid. It has been proposed that the amino acids were synthesized close to the surface of a planetoid by the radiolysis
+(dissociation of molecules caused by radiation) of hydrocarbons and ammonium carbonate in the presence of liquid water. in
+addition, the hydrocarbons could have formed deep within a planetoid by a process similar to the Fischer-Tropsch process.
+‘These conditions could be analogous to the events that caused the origin of life on Earth.33)
+
+The Murchison meteorite has been thoroughly studied: it fell in Australia close to the town that bears its name on 28 September _The Murchison meteorite is on
+display at the Smithsonian's NMINH
+
+1969. It is a CM2 and it contains common amino acids such as glycine, alanine and glutamic acid as well as other less common
+
+ones such as isovaline and pseudo-leucine.(941
+
+‘Two meteorites that were collected in Antarctica in 1992 and 1995 were found to be abundant in amino acids, which are present at concentrations of 180 and 249 ppm
+(carbonaceous chondrites normally contain concentrations of 15 ppm or less). This could indicate that organic material is more abundant in the Solar System than was
+previously believed, and it reinforces the idea that the organic compounds present in the primordial soup could have had an extraterrestrial origin.!351
+Notes
+
+a. 4 The use of the term non-metallic does not imply the total absence of metals.
+References
+
+1. 4°2.2 La composicién de la Tierra: el modelo condritico in Planetologia
+Universidad Complutense de Madrid” . Retrieved 19 May 2012
+
+2.*#® Calvin J. Hamilton (Translated from English by Antonio Bello). "Meteoroides
+y Meteoritos” (in Spanish). Retrieved 18 April 2009,
+
+3. 4 Bischoff, A: Geiger, T. (1995). "Meteorites for the Sahara: Find locations, shock
+classification, degree of weathering and pairing”. Meteoritics. 30 (1): 113-122.
+Bibcode:1995Metic. 30.1136 c2. doi:10.1111/} 1945-5100.1995,tb01219.x 2
+ISSN 0026-11142
+
+4. * Axxén. "Pistas quimicas apuntan a un origen de polvo para los planetas
+terrestres” & (in Spanish). Retrieved 11 May 2009,
+
+5. § Jordi, Llorca Pique (2004). "Nuestra historia en los meteoritos” 2. El sistema
+solar: Nuestro pequefio rincén en la via léctea. Universitat Jaume |. p. 75.
+
+ISBN 978-8480214667.
+
+6. * Amelin, Yuri: Krot, Alexander (2007). "Pb isotopic age of the Allende
+chondrules” 2. Meteoritios & Planetary Science. 42 (7/8): 1043-1463
+Bibcode:2007M&PS...42.1043F 7. doi:10.1111/).1945-5100.2007 tb00559.x 2
+S2CID 247696781 2
+
+7. * Wood, J.A. (1988). "Chondritic Meteorites and the Solar Nebula”. Annual Review
+of Earth and Planetary Sciences. 16: 53-72. Bibcode:1988AREPS..16...53W iz.
+doi:10.1146/annurev.ea.16.050188.000413 «2. 0084-6597, 53-72
+
+8. 4 "Bjurbéle; Meteoritical Bulletin Database. The Meteoritical Societ
+6 March 2013.
+
+9. 4 "Grassland; Meteoritical Bulletin Database. The Meteoritical Society" 2
+Retrieved 6 March 2013
+
+10. *# ® Mafioz-Espadas, M.J.; Martinez-Frias, J.: Lunar, R. (2003). "Mineralogia,
+texturas y cosmoquimica de céndrulos RP y PO en la condrita Reliegos L5 (Leén,
+Espafia)". Geogaceta (in Spanish). 34. 0213-683X, 35-38.
+
+11. * Astrobiology Magazine. "{Cociné Jupiter a los meteoritos?" z (in Spanish).
+Archived from the original on 19 April 2007. Retrieved 18 April 2009.
+
+12. Boss, AP; Durisen, RH. (2005). "Chondrule-forming Shock Fronts in the Solar
+Nebula: A Possible Unified Scenario for Planet and Chondrite Formation”. The
+Astrophysical Journal. 621 (2): L137-L140. arkiv-astro-ph/0501592 8,
+Bibcode:2005ApJ...621L.137B 2. doi:10.1086/429160 7. S2CID 15244154.
+
+13. *2 Van Schmus, W. R.; Wood, J. A. (1967). "A chemical-petrologic classification
+for the chondritic meteorites”. Geochimica et Cosmochimica Acta. 31 (5): 747-765.
+Bibcode:1967GeCoA..31..747V e. doi:10.1016/S0016-7037(67)80030-9 2
+
+14. Clayton, R. N.: Mayeda, T. K. (1989), "Oxygen Isotope Classification of
+Carbonaceous Chondrites", Abstracts of the Lunar and Planetary Science
+Conference, 20: 169, Bibcode:1989LPI...20.169C
+
+15. * Wiotzka, F. (July 1993), "A Weathering Scale for the Ordinary Chondrites”,
+Meteontics, 28 (3): 460, Bibcode:1993Metic. 280. 460W
+
+16. 4 St6ffler, Dieter: Keil, Klaus; Edward R.D, Scott (December 1991). "Shock
+metamorphism of ordinary chondrites" :¢. Geochimica et Cosmochimica Acta. 55
+(12); 3845-3867. Bibcode:1991GeCoA. 5.38455 2
+doi:10.1016/0016-7037(91)90078-4 3.
+
+17." The Meteorite Market. "Types of Meteorites” . Retrieved 18 April 2009.
+
+18. 4 The E stands for Enstatite, H indicates a high metallic iron content of
+approximately 30%, and L low. The number refers to alteration.
+
+19. * Except for the High Iron, all the other carbonaceous chondrites are named after a
+characteristic meteorite.
+
+2. Retrieved
+20
+
+2
+
+22.
+
+23.
+
+24.
+
+25.
+
+26
+
+2.
+
+28.
+
+29
+
+30.
+
+El
+
+32
+
+33
+
+34.
+
+36
+
+*®© Norton, O.R. and Chitwood, L.A. Field Guide to Meteors and Meteorites,
+Springer-Verlag, London 2008
+
+* New England Meteoritical Services. "Meteorlab" cz. Archived from the original
+on 21 February 2009. Retrieved 22 April 2009
+
+"metal, iron, & nickel in meteorites 1". meteorites. wustl.edu. Archived from
+the original ct on 2 July 2019. Retrieved 1 July 2010.
+
+* The Internet Encyclopedia of Science. "carbonaceous chondrite” 4. Retrieved
+
+26 April 2009.
+
+* Aaron S. Burton: Jamie E. Elsila: Jason E. Hein; Daniel P. Glavin: Jason P.
+Dworkin (March 2013). "Extra-terrestrial amino acids identified in metal-rich CH and
+CB carbonaceous chondrites from Antarctica’. Meteoritics & Planetary Science. 48
+(3): 390-402. Bibcode:2013M&PS...48..390B 2. doi:10.1111/maps.120632
+hal:2060/20130014351 . S2CID 59928474.
+
+* Andrew M. Davis; Lawrence Grossman; R. Ganapathy (1977). "Yes, Kakangari is
+unique chondrite". Nature. 265 (5591): 230-232. Bibcode:1977Natur 265..230D v2
+doi:10.1038/265230a0 2. S2CID 4295051 c*. 0028-0836, 230-232
+
+* Michael K. Weisberga: Martin Prinza: Robert N. Claytonb: Toshiko K. Mayedab;
+Monica M. Gradye; lan Franchid: Colin T. Pillingerd: Gregory W. Kallemeyne
+(1996). "The K (Kakangari) chondrite grouplet”. Geochimica et Cosmochimica Acta.
+60 (21): 4253-4263. Bibcode:1996GeCoA. .60.4253W x2
+doi:10.1016/S0016-7037(96)00233-5 «7. 0016-7037, 4253-4263
+
+* Meteorites.tv. Meteorites for Science, Education & Collectors. "R Group
+(Rumurutiites)" 2. Archived from the original @ on 18 April 2013. Retrieved 28 April
+2009.
+
+* Grevesse and Sawval (2005) in Encyclopedia of Astronomy & Astrophysics, IOP
+Publishing, Ltd
+
+* Meteorite Museum. University of New Mexico. Institute of Meteoritics. "Asteroid
+Geology: Water” et. Archived from the original on 15 December 2012. Retrieved
+28 April 2009.
+
+* Drake, Michael J.; Righter, Kevin (2001). "Where did Earth’s water come
+from?" cz. GSA Annual Meeting. 109. Archived from the original on 5 November
+2018. Retrieved 24 March 2013
+
++ Jorn Miller: Harald Lesch (2003). "Woher kommt das Wasser der Erde? —
+Urgaswolke oder Meteoriten”. Chemie in unserer Zeit (in German). 37 (4): 242-246
+doi:10.1002/ciuz. 200300282 7. ISSN 0009-2851
+
+* Jordi Llorca i Piqué (2004). "Moléculas orgénicas en el sistema solar: gdénde y
+cémo encontrarlas?”. I Curso de Ciencias Planetarias de la Universidad de
+Salamanca (in Spanish)
+
+‘* Hyman Hartman; Michael A. Sweeney: Michael A. Kropp: John S. Lewis (1993).
+Carbonaceous chondrites and the origin of life". Origins of Life and Evolution of
+Biospheres. 23 (4): 221-227. Bibcode:19930LEB...23..221H
+doi:10.1007/BF01581900 7. S2CID 2045303 2. 0169-6149, 221-227.
+
+* Kvenvolden, Keith A.; Lawless, James; Pering, Katherine; Peterson, Etta: Flores,
+Jose; Ponnamperuma, Cyril; Kaplan, Isaac R.; Moore, Carleton (1970). "Evidence
+for extraterrestrial amino-acids and hydrocarbons in the Murchison meteorite” 2.
+Nature. 228 (5275): 923-926. Bibcode:1970Natur 228. 923K v.
+doi:10.1038/228923a0 2. PMID 5482102. S2CID 4147981
+
+* Camegie Institution for Science (13 March 2008). "Meteorites a Rich Source for
+Primordial Soup”. Retrieved 30 April 2009.

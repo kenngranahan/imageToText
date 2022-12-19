@@ -1,0 +1,188 @@
+
+Alphabet forms
+
+There are three major variants of the Syriac alphabet: “Estrangéla, Madnhay and Serta ean x :
+ADs Joo soo] Mais Serto
+
+Classical ‘Estrangéla hse ide wtadar Qu: Madnhaya
+‘The oldest and classical form of the alphabet is “Estrangélal"l (Axil wore). The name of ivhln cam smaluc’ uric Estrangéla
+the script is thought to derive from the Greek adjective strongylé (otpoyyUAn, 'rounded’),!3] Brésit itaw[hy] (h]wa melta.
+though it has also been suggested to derive from serta ‘ewwangélaya (AL\uaré yim, In the beginning was the Word
+‘gospel character’).{*] although ‘Estrangéla is no longer used as the main script for writing — =
+
+The opening words ofthe Gospel of John writen in Serta, Madnnaya and =
+
+Syriac, it has received some revival since the 10th century. itis often used in scholarly “Estrangéia (top to bottom) — brésittawhylfywa me
+publications (such as the Leiden University version of the Peshifta), in titles, and in word.
+
+inscriptions. In some older manuscripts and inscriptions, it is possible for any letter to join to
+
+the left, and older Aramaic letter forms (especially of het and the lunate mem) are found
+
+Vowel marks are usually not used with “Estrangéla, being the oldest form of the script and arising before the development of
+specialized diacritics
+
+the beginning was the
+
+East Syriac Madnhaya
+The East Syriac dialect is usually written in the Madnhdya (etiioxn, 'Eastern’) form of the alphabet. Other names for the script
+include Swadayé (r<ésié, ‘conversational’ or ‘vernacular’, often translated as ‘contemporary’, reflecting its use in writing modern
+Neo-Aramaic), “Atoraya (eiahv<, ‘Assyrian’, not to be confused with the traditional name for the Hebrew alphabet), Kaldéya
+(<a, ‘Chaldean’), and, inaccurately, "Nestorian" (a term that was originally used to refer to the Church of the East in the
+Sasanian Empire). The Eastern script resembles ‘Estrangélé somewhat more closely than the Western script.
+
+Vowels
+
+‘The Eastern script uses a system of dots above and/or below letters, based on an older system, to indicate vowel sounds not
+found in the script
+
+‘+ A dot above and a dot below a letter represent [a], transliterated as a or 4 (called cia, pana), as
+
++ Two diagonally-placed dots above a letter represent [a], transliterated as 4 or 4 or 4 (called <a, 29408), ‘Adth century Estrangéla a
+manuscript of John Chrysostom's
+
++ Two horizontally-placed dots below a letter represent [e], transliterated as ¢ or & (called yii< o< 53, 10854 “NTKA OF EASY omy on the Gospel of John
+
+r<éq29, z/mé pSiga: often pronounced [1] and transliterated as / in the East Syriac dialect),
+
+‘+ Two diagonally-placed dots below a letter represent [e], transliterated as é (called << g5i, D484 Karya or ries eal,
+ziama qasya),
+
++ The letter waw with a dot below it represents [u], transliterated as U or u (called < ale <3 ae, ‘SAS
+rasa),
+
+1S OF ee Ss,
+
+‘+ The letter waw with a dot above it represents [0], transliterated as 6 or 0 (called riot < g gw, ‘S484 rwihd or e<ias,
+wana),
+
++ The letter yod with a dot beneath it represents [i], transliterated as Tor i (called 34», Nasa),
+
+* A combination of rt
+
+isd karyé (usually) followed by a letter yod represents [e] (possibly “[e] in Proto-Syriac), transliterated as
+
+€or é (called eased,
+
+Itis thought that the Eastern method for representing vowels influenced the development of the niqqud markings used for writing
+Hebrew.
+
+In addition to the above vowel marks, transliteration of Syriac sometimes includes 9, é or superscript © (or often nothing at all) to
+represent an original Aramaic schwa that became lost later on at some point in the development of Syriac. Some transliteration
+‘schemes find its inclusion necessary for showing spirantization or for historical reasons. Whether because its distribution is Men SI
+mostly predictable (usually inside a syllable-initial two-consonant cluster) or because its pronunciation was lost, both the East manuscript from the Vatican Library
+
+and the West variants of the alphabet traditionally have no sign to represent the schwa. Note the title writen in ‘Estrangéla.
+
+West Syriac Serta
+
+‘The West Syriac dialect is usually written in the Serta or Serto (rs, 'line') form of the alphabet, also known as the Psité e \ ( \ Y >
+
+(rL,a, 'simple’), ‘Maronite’ or the \Jacobite' script (although the term Jacobite is considered derogatory). Most of the letters are 535.55 786: the Syiacnameof | ©
+clearly derived from ‘Estrangéla, but are simplified, flowing lines. A cursive chancery hand is evidenced in the earliest Syriac Jesus in the ‘Estrangélé script
+manuscripts, but important works were written in 'Estrangéla. From the sth century, the simpler Serta style came into fashion,
+
+perhaps because of its more economical use of parchment.
+Vowels
+The Western script is usually vowel-pointed, with miniature Greek vowel letters above or below the letter which they
+follow:
+
++ (Capital alpha (A) represents [a], transliterated as a or 4 (ihe, plana),
+
++ () Lowercase alpha (a) represents [a], transliterated as 4 or 4 or 4 (r<&ax, 29404: pronounced as [0] and
+transliterated as o in the West Syriac dialect),
+
++ (@) Lowercase epsilon (e) represents both [e}, transliterated as e or &, and [e], transliterated as € (e< 5%,
+Rosa),
+
+‘An 11th century book in the Serta script a
+ (<) Capital eta (H) represents [i], transliterated as T(«< 24s, HDasa),
+
++ GA combined symbol of capital upsilon (Y) and lowercase omicron (0) represents [u], transliterated as 0 or u
+(xg a. '9488),
+
++ Lowercase omega (ww), used only in the vocative interjection °6 (ar<, 'O!').
+Summary table
+
+The Syriac alphabet consists of the following letters, shown in their isolated (non-connected) forms. When isolated, the letters Kap,
+mim, and man are usually shown with their initial form connected to their final form (see below). The letters “lep, dailat, né, waw, zayn,
+sad6, ré§ and taw (and, in early ‘Estrangéla manuscripts, the letter semkaf®l) do not connect to a following letter within a word; these
+are marked with an asterisk (*).
+Unicode
+‘The Syriac alphabet was added to the Unicode Standard in September, 1999 with the release of version 3.0. Additional letters for Suriyani Malayalam were added in
+June, 2017 with the release of version 10.0
+
+Blocks
+Main articles: Syriac (Unicode block) and Syriac Supplement (Unicode block)
+
+The Unicode block for Syriac is U+0700-U+074F
+The Syriac Abbreviation (a type of overline) can be represented with a special control character called the Syriac Abbreviation Mark (U+070F),
+
+The Unicode block for Suriyani Malayalam specific letters is called the Syriac Supplement block and is U+0860-U+086F
+HTML code table
+Note: HTML numeric character references can be in decimal format (&#DDDD:) or hexadecimal format (&#xHHHH:). For example, &#1813; and &#x0715; (1813 in
+decimal) both represent U+0715 SYRIAC LETTER DALATH.
+
+Alep bet
+Notes
+* Als0 cauiom Nox ‘abgad Sayaya.
+* Also pronounced/transliterated Estrangelo in Western Syriac.
+
+c.* Also pronounced ‘Ala6 or ‘Olaf (alee) in Westen Syriac.
+
+d. * Among most Assyrian Neo-Aramaic speakers, the pharyngeal sound of ‘E (/C/) is not pronounced as such: rather, it typically merges into the plain sound of ‘Alep ({?] or @) or
+geminates a previous consonant
+
+e. 4 In the final position following Dalat or R8é, “Alep takes the normal form rather than the final form in the Madinhayaé variant of the alphabet.
+
+£ * In some Sertd usages, the sy4mé dots are placed diagonally when they appear above the letter Lammad.
+References
+
+1. 4 "Syriac alphabet” 2. Encyclopaedia Britannica Online. Retrieved June 16, 2012
+
+2.4 PR. Ackroyd.C. F. Evans (1975). The Cambridge History of the Bible: Volume
+1, From the Beginnings to Jerome cz. p. 26. ISBN 9780521099738.
+
+3. 4 Hatch, William (1946). An Album of Dated Syriac Manuscripts. Boston: The
+‘American Academy of Arts and Sciences, reprinted in 2002 by Gorgias Press. p.
+24. ISBN 1-931956-53-7.
+
+4. 4 Nestle, Ebethard (1888). Syrische Grammatik mit Litteratur, Chrestomathie und
+Glossar. Berlin: H. Reuther's Verlagsbuchhandlung. [translated to English as Syriac
+grammar with bibliography, chrestomathy and glossary, by R. S. Kennedy. London
+Williams & Norgate 1889. p. 5]
+
+5. ® Coakley, J. F. (2002). Robinson's Paradigms and Exercises in Syriac Grammar
+(6th ed.). Oxford University Press. p. 141. ISBN 978-0-19-926129-1
+
+6. * Néldeke, Theodor and Julius Euting (1880). Kurzgefasste syrische Grammatik.
+Leipzig: T.0. Weigel. [translated to English as Compendious Syriac Grammar, by
+James A. Crichton. London: Williams & Norgate 1904. 2003 edition. pp. 10-11
+ISBN 1-57506-050-7]
+Sources
+
++ Coakley, J. F. (2002). Robinson's Paradigms and Exercises in Syriac Grammar (5th ed.). Oxford University Press. ISBN 978-0-19-926129-1
+
+‘+ Hatch, William (1946). An Album of Dated Syriac Manuseripts. Boston: The American Academy of Arts and Sciences, reprinted in 2002 by Gorgias Press.
+ISBN 1-931956-53-7,
+
++ Kiraz, George (2015). The Syriac Dot: a Short History. Piscataway, NJ: Gorgias Press. ISBN 978-1-4632-0425-9
+
+‘+ Michaelis, loannis Davidis (1784). Grammatica Syriaca
+
+‘+ Nestle, Eberhard (1888). Syrische Grammatik mit Litteratur, Chrestomathie und Glossar. Berlin: H. Reuther's Verlagsbuchhandlung. [translated to English as Syriac
+grammar with bibliography, chrestomathy and glossary, by R. S. Kennedy. London: Williams & Norgate 1889]
+
+‘+ Néldeke, Theodor and Julius Euting (1880). Kurzgefasste syrische Grammatik. Leipzig: 7.0. Weigel. [translated to English as Compendious Syriac Grammar, by
+James A. Crichton. London: Williams & Norgate 1904. 2003 edition: ISBN 1-57506-050-7].
+
++ Phillips, George (1866). A Syriac Grammar. Cambridge: Deighton, Bell, & Co.; London: Bell & Daldy.
+
++ Robinson, Theodore Henry (1915). Paradigms and Exeroises in Syriac Grammar. Oxford University Press. ISBN 0-19-926129-6
+
++ Rudder, Joshua. Learn to Write Aramaic: A Step-by-Step Approach to the Historical & Modern Soripts. n.p.: CreateSpace Independent Publishing Platform, 2011
+220 pp. ISBN 978-1461021421 Includes the Estrangela (pp. 59-113), Madnhaya (pp. 191-206), and the Western Serto (pp. 173-190) scripts.
+
++ Segal, J. B. (1953). The Diacritical Point and the Accents in Syriac. Oxford University Press, reprinted in 2003 by Gorgias Press. ISBN 1-59333-032-4
+
+‘+ Thackston, Wheeler M. (1999). Introduction to Syriac. Bethesda, MD: Ibex Publishers, Inc. ISBN 0-936347-98-8.
